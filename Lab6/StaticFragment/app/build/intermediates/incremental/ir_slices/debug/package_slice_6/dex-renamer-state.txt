@@ -1,0 +1,4 @@
+#Sat Oct 27 15:15:36 EEST 2018
+base.0=E\:\\Temporary_Stuff_Lil_Progies\\Egyetem\\3.ad_Ev_1.Felev\\Mobil_eszk._alk\\Labor\\Lab6\\StaticFragment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

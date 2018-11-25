@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstLogin</string>
+    <string name="text_fieldu">Username</string>
+    <string name="text_fieldp">Password</string>
+    <string name="text_view1">UserName</string>
+    <string name="text_view2">PassWord</string>
+    <string name="button_login">Log In</string>
+    <string name="desc_image">This is an Android image</string>
+</resources>

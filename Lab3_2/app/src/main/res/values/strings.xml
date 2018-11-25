@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="text_field">To</string>
+    <string name="text_field2">Subject</string>
+    <string name="text_field3">Message</string>
+    <string name="button">Send</string>
+    <string name="tf">Red</string>
+    <string name="tf2">Green</string>
+    <string name="tf3">Blue</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">Button5</string>
+    <string name="textfield">Username</string>
+    <string name="textfield1">Password</string>
+    <string name="checkbox">Remember Me</string>
+    <string name="btn">Sign In</string>
+    <string name="btn1">Sign Up</string>
+</resources>

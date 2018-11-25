@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MasodikFeladat</string>
+    <string name="title">Input Your Data</string>
+    <string name="fname">First Name: </string>
+    <string name="lname">Last Name: </string>
+    <string name="submitbtn">Submit</string>
+    <string name="fullnamedescp">Your name is: </string>
+</resources>

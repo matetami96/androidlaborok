@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Temporary_Stuff_Lil_Progies\\Egyetem\\3.ad_Ev_1.Felev\\Mobil_eszk._alk\\Labor\\Lab7\\TabExperiment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\matet\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.1.aar\\e3847e428e856ec488ab39e8ff4a13ab\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
