@@ -1,0 +1,4 @@
+#Thu Nov 29 11:09:08 EET 2018
+base.0=E\:\\Temp\\Egyetem\\3.Ev.1.Felev\\Mobil_eszk._alk\\Labor\\Lab10\\LoginApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

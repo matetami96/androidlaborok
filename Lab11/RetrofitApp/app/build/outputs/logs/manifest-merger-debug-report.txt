@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\16d4e4e48e8bc684f2bddd9e8108c071\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b67e832b7c914a9b035d0bd3c1605a1e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1371cf0645077faa0f9a84ce9677df4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3454cdb214d001e835970102d474ff9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e5b47926a8a39cd2db6757103932535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\579acd5bf35be2d56e0e3b5441494cab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a53a817408609ccf3d561cd971d688f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d3405a6216a90bf0121df9c1c0d74dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01535cea40df163bb531e78d3beb733c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\85d752516b8bff88b6b3c3bec8825b06\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\893811c1403cfc42e9ffb9f29edbc429\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\19b56eb7d744f1a8a17640e9a0a9ca8a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c2cf07f6b0823c872b77f30c6714889\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6eec68a7b58956192a372401b8ee7e5\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b67e832b7c914a9b035d0bd3c1605a1e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b67e832b7c914a9b035d0bd3c1605a1e\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#ro.sapi.retrofitapp.MainActivity
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\16d4e4e48e8bc684f2bddd9e8108c071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\16d4e4e48e8bc684f2bddd9e8108c071\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b67e832b7c914a9b035d0bd3c1605a1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\b67e832b7c914a9b035d0bd3c1605a1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1371cf0645077faa0f9a84ce9677df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c1371cf0645077faa0f9a84ce9677df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3454cdb214d001e835970102d474ff9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3454cdb214d001e835970102d474ff9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e5b47926a8a39cd2db6757103932535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6e5b47926a8a39cd2db6757103932535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\579acd5bf35be2d56e0e3b5441494cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\579acd5bf35be2d56e0e3b5441494cab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a53a817408609ccf3d561cd971d688f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\6a53a817408609ccf3d561cd971d688f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d3405a6216a90bf0121df9c1c0d74dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8d3405a6216a90bf0121df9c1c0d74dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01535cea40df163bb531e78d3beb733c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01535cea40df163bb531e78d3beb733c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\85d752516b8bff88b6b3c3bec8825b06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\85d752516b8bff88b6b3c3bec8825b06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\893811c1403cfc42e9ffb9f29edbc429\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\893811c1403cfc42e9ffb9f29edbc429\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\19b56eb7d744f1a8a17640e9a0a9ca8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\19b56eb7d744f1a8a17640e9a0a9ca8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c2cf07f6b0823c872b77f30c6714889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c2cf07f6b0823c872b77f30c6714889\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6eec68a7b58956192a372401b8ee7e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\matet\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f6eec68a7b58956192a372401b8ee7e5\AndroidManifest.xml:20:5-44
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Temp\Egyetem\3.Ev.1.Felev\Mobil_eszk._alk\Labor\Lab11\RetrofitApp\app\src\main\AndroidManifest.xml
